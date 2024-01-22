@@ -3,8 +3,6 @@
 ## Introduction
 This Python script offers a comprehensive analysis of financial securities, encompassing stocks, indices, cryptocurrencies, and commodities. Leveraging historical data from Yahoo Finance, it calculates and visualizes monthly and yearly trends in both USD and percentage terms.
 
-### Why This Script is Awesome
-
 ### Streamlined Financial Analysis
 Our script simplifies the complex world of financial data analysis. With just a few clicks, users can access detailed trends of stocks, indices, cryptocurrencies, and commodities over a specified time period. This tool brings powerful financial insights right to your fingertips.
 
@@ -30,7 +28,7 @@ By utilizing this script, users can make more informed decisions, explore financ
 ### Example of Results Using This Program
 This is a screeentshot of a live investment portfolio that was created using this programs analysis as well as some other tools I have published.
 
-![Portfolio Screenshot](2024portfolio.png)
+![Portfolio Screenshot](2024Portfolio.png)
 
 ## Installation
 Ensure Python and necessary dependencies are installed on your system. Follow these steps to set up:
