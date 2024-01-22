@@ -17,11 +17,12 @@ Understanding the consistency of trends and their seasonality is crucial for mak
 In essence, the Trend Analysis Tool is designed to provide clarity and actionable insights, helping users to navigate the complexities of financial markets with confidence.
 
 ### Example of the Program Output
-![Cumulative Monthly Average Changes](Figure_1.png)
-
 ![Script Execution Screenshot](programterminal.png)
 
-### Example of Results Using This Program
+### Graph Output
+![Cumulative Monthly Average Changes](Figure_1.png)
+
+### Live Investment Portfolio Results Using This Program
 This is a screeentshot of a live investment portfolio that was created using this programs analysis as well as some other tools I have published.
 
 ![Portfolio Screenshot](2024Portfolio.png)
