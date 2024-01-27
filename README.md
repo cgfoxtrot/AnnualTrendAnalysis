@@ -27,7 +27,8 @@ This is a screeentshot of a live investment portfolio that was created using thi
 
 ![Portfolio Screenshot](2024Portfolio.png)
 
-As of January 27th, 2024
+### Portfolio results as of January 27th, 2024
+Most recent live account results.
 ![Portfolio Screenshot](2024_Portfolio_Febraury_01.png)
 
 ### Streamlined Financial Analysis
