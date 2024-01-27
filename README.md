@@ -27,6 +27,9 @@ This is a screeentshot of a live investment portfolio that was created using thi
 
 ![Portfolio Screenshot](2024Portfolio.png)
 
+As of January 27th, 2024
+![Portfolio Screenshot](2024Portfolio.png)
+
 ### Streamlined Financial Analysis
 Our script simplifies the complex world of financial data analysis. With just a few clicks, users can access detailed trends of stocks, indices, cryptocurrencies, and commodities over a specified time period. This tool brings powerful financial insights right to your fingertips.
 
